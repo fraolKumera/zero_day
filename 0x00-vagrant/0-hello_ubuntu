@@ -1,0 +1,1 @@
+Without any options, the 'uname' command just outputs the kernel name. As a result, the output below demonstrates that this system uses the "Linux" kernel. Uname -s, which also shows the kernel name, is another option.
